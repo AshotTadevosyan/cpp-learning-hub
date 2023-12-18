@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ashottadevosyan/Desktop/Programs/cppVScode",
+      "program": "/Users/ashottadevosyan/Desktop/Programs/cppVScode/build/Debug/outDebug"
+    }
+  ]
+}
